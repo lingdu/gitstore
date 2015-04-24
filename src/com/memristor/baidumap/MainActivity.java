@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-//¿×ÖÛ·«µ÷ÊÔ
+//ÂŞ½Üµ÷ÊÔ
 @SuppressWarnings("unused")
 public class MainActivity extends Activity {  
     MapView mMapView = null;  
