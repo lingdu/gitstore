@@ -8,8 +8,12 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+<<<<<<< HEAD
 //zzy
 
+=======
+//ÕÅ×ÓÑïµ÷ÊÔ
+>>>>>>> branch 'master' of https://github.com/alex44jzy/BaiduMapSWU504.git
 @SuppressWarnings("unused")
 public class MainActivity extends Activity {  
     MapView mMapView = null;  
