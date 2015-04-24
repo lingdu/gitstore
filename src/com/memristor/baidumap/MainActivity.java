@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-//测试guoxiuzhen协作push
+//测试guoxiuzhe协作push
 @SuppressWarnings("unused")
 public class MainActivity extends Activity {  
     MapView mMapView = null;  
