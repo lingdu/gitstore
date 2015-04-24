@@ -8,7 +8,7 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
-//测试alexjzy协作push
+//测试alexjzy协作push添加注释
 @SuppressWarnings("unused")
 public class MainActivity extends Activity {  
     MapView mMapView = null;  
